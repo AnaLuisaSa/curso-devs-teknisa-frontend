@@ -1,0 +1,17 @@
+.container {
+  text-align: center;
+}
+h2 {
+  font-weight: bolder;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.body input {
+  padding: 8px;
+  margin-right: 8px;
+}
+
+.footer {
+  margin-top: 25px;
+  font-size: 15px;
+}
